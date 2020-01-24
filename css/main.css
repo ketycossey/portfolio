@@ -69,7 +69,7 @@
 .menu-branding .portrait {
 	width: 250px;
 	height: 250px;
-	background: url('../img/portrait_small2.png');
+	background: url('../img/portrait_small3.png');
 	border-radius: 50%;
 	border: solid 3px #ee1a8f;
 }
@@ -341,13 +341,13 @@ main#home h1 {
 		font-size: 24px;
 	}
 	.menu-branding {
-		height: 25vh;
+		height: 40vh;
 		transform: translate3d(100%, 0, 0);
 	}
 	.menu-branding .portrait {
-		background: url('../img/portrait_small2.png');
-		width: 150px;
-		height: 150px;
+		background: url('../img/portrait_small3.png');
+		width: 250px;
+		height: 250px;
 	}
 	.about-info {
 		grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
